@@ -9,4 +9,4 @@ Resources:
       Runtime: nodejs6.10
       Environment:
         Variables: 
-          S3_BUCKET: bucket-name
+          S3_BUCKET: ks-selma
